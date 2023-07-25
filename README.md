@@ -4,9 +4,9 @@ This repository presents official implementation of a paper, "MMP Net: A Feedfor
 
 ### Requirements 
 To build the environment of the implementation, check requirements.txt or use pip:
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### Implementations
 All codes of this repository are implemented with Python and PyTorch. The implemented source codes are as followed:
