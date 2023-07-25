@@ -9,7 +9,8 @@ pip install -r requirements.txt
 ‘’’
 
 ### Implementations
-All codes of this repository are implemented with Python and PyTorch. \\
+All codes of this repository are implemented with Python and PyTorch. 
+
 The implemented source codes are as followed:
 1.	models/MMPNet.py – This is Implementation of MMP Net, a feed forward neural network model specifically designed for continuous multi-stage manufacturing processes (MMPs) without intermediate outputs. 
 2.	data/custom_dataset.py, data/data_loader.py – These are source code to make data loader of pytorch for training and testing. 
